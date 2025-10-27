@@ -1,0 +1,6 @@
+@IndigoLabsAssigment_HostAddress = http://localhost:5274
+
+GET {{IndigoLabsAssigment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
