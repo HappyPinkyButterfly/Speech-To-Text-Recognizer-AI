@@ -14,7 +14,7 @@ Projekt je razvit v **.NET 8.0** okolju in uporablja naslednje tehnologije:
 - **ASP.NET Core Web API**
 - **Swagger/OpenAPI** za dokumentacijo in testiranje endpointov
 - **Azure Cognitive Services Speech SDK** za prepoznavanje govora
-- 
+
 ## Nastavitve in konfiguracija
 
 V datoteki `appsettings.json` je potrebno dodati ustrezne Azure podatke:
@@ -46,4 +46,5 @@ Ključ veljaven do 27.11.2025 je 'DtBcjTRDCbDH7e4CdKyOCB6VWKcrI4yTi33Ws8gSHwsCF1
   "success": true,
   "error": ""
 }
+
 
