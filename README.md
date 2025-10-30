@@ -1,4 +1,4 @@
-# IndigoLabs Speech Recognition API
+# Speech-To-Text Recognizer AI
 
 Ta projekt predstavlja preprost RESTful spletni API, ki omogoča prepoznavanje govora iz WAV datotek s pomočjo storitve Azure Cognitive Services Speech to Text. API sprejme avdio datoteko, jo obdela v realnem času in vrne prepoznano besedilo ter zaznan jezik v obliki JSON odgovora prvih 20 sekund WAV datoteke.
 
@@ -46,3 +46,4 @@ Ključ veljaven do 27.11.2025 je 'DtBcjTRDCbDH7e4CdKyOCB6VWKcrI4yTi33Ws8gSHwsCF1
   "success": true,
   "error": ""
 }
+
